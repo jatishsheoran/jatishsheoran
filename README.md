@@ -1,16 +1,97 @@
-## Hi there 👋
+# Hi there 👋, I'm Jatish Kumar
 
-<!--
-**jatishsheoran/jatishsheoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Developer | Full Stack Developer | Problem Solver
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate passionate about building scalable web applications and solving real-world problems through technology. I enjoy working across the full development stack and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+* 🎓 B.Tech in Computer Science & Engineering
+* 💻 Full Stack Web Developer
+* 🌱 Currently learning advanced system design and cloud technologies
+* 🔭 Working on modern web applications using React, Node.js, Express, and MongoDB
+* 📚 Regularly practicing Data Structures and Algorithms
+* ⚡ Interested in Web Development, Backend Engineering, and AI-powered applications
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React.js
+* Next.js
+* JavaScript (ES6+)
+* TypeScript
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+
+### Database
+
+* MongoDB
+* MySQL
+
+### Programming Languages
+
+* Java
+* JavaScript
+* C++
+* Python
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+* Postman
+* Docker
+* Linux
+* Vercel
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 ScholarAid
+
+A scholarship management portal designed to simplify scholarship discovery and application processes.
+
+**Tech Stack:** React, Node.js, Express, MongoDB
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jatishsheoran&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatishsheoran&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+* GitHub: https://github.com/jatishsheoran
+* LinkedIn: https://linkedin.com/in/jatishchaudhary
+
+---
+
+### 💡 Favorite Quote
+
+> "First, solve the problem. Then, write the code."
+
+⭐ Feel free to explore my repositories and connect with me!
