@@ -69,19 +69,6 @@ A scholarship management portal designed to simplify scholarship discovery and a
 **Tech Stack:** React, Node.js, Express, MongoDB
 
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatishsheoran&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatishsheoran&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
